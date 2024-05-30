@@ -1,4 +1,10 @@
 ## Hi there 👋
+- 👨‍💻 I am a full stack software engineer @ BAO Systems. I mostly work on the [Dharma App](https://baosystems.com/product/dharma-platform/)
+- 🐍 My favorite stack is Django(REST Framework), React & PostgreSQL
+- 🎹 I am a custom keyboard geek. I am currently using the Corne (CRKBD)
+- 🛶 When I am not writing or learning about code, I am kayaking
+- 🪂 Fun fact: Before writing code for a living, I was a professional skydiver!
+
 
 <!--
 **tomhwtt/tomhwtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
