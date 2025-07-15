@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 👨‍💻 I am a full stack software engineer @ [BAO Systems](https://baosystems.com/). I mostly work on the [Dharma App](https://baosystems.com/product/dharma-platform/).
+- 👨‍💻 I am a full stack software engineer @ [Golden Hearts Games](https://goldenheartsgames.com/).
 - 🐍 My favorite stack is Django(REST Framework), React & PostgreSQL.
 - 🎹 I am a custom keyboard geek. My current obsession is a 40% [Corne (CRKBD)](https://github.com/foostan/crkbd) running [QMK Firmware](https://github.com/qmk/qmk_firmware).
 - 🛶 When I am not writing or learning about code, I am whitewater kayaking.
